@@ -4,7 +4,7 @@
 
 [TechSpotlight présente Atos](https://lafaymehdi.github.io/SAE-S1.05-06/)
 
-## Membres du groupe :
+## Membres du groupe  :
 
 Groupe 12
 
